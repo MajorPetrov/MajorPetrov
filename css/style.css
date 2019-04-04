@@ -1,0 +1,7 @@
+.navbar-nav>li>.dropdown-menu {
+    background-color: rgb(33, 37, 41);
+}
+
+.navbar-nav>li>.dropdown-menu>.dropdown-item {
+    color: white;
+}
